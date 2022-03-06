@@ -1,15 +1,3 @@
-# Site Settings
-locale                   : "ko"
-title                    : "제목"
-title_separator          : "-"
-name                     : "이름"
-description              : "블로그 설명"
-url                      : https:// 깃허브 계정.github.io
-# the base hostname & protocol for your site e.g."https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : 깃허브 계정/깃허브 계정.github.io
-# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-~~~~~~~~~~~~~~~~~~
 # Site Author
 author:
   name             : "내 이름"
